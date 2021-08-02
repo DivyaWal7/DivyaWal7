@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @DivyaWal7
 - 👀 Interested in technical aspects
 - 🌱 I’m currently learning : NestJS, Hibernate, SpringBoot
+- Tech Stack knowledge - C.C#,C++,Java,React, React Native, Express
+-
 
 
 <!---
